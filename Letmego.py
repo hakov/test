@@ -1,2 +1,2 @@
 print "hello world!"
-print "I am OK"
+print "I am OK!"
